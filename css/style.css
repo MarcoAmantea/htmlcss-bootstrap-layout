@@ -6,6 +6,6 @@ header{
    margin-top: 20px;
    margin-bottom: 20px;
 }
-.white{
-    color: white;
+.text-bg-info , .text-bg-warning{
+    color: white !important;
 }
