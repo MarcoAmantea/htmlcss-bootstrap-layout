@@ -1,0 +1,17 @@
+.center{
+    text-align: center;
+}
+.border{
+    border: 1px solid lightgray;
+}
+.mg-vertical{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.pad{
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+.mg-bottom{
+    margin-bottom: 20px;
+}
